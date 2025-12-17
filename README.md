@@ -1,16 +1,69 @@
-## Hi there 👋
+# 🌐 Hi, I'm Sameh Hawamdah
 
-<!--
-**Sameh-H/Sameh-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Beginner Data Analyst | Aspiring Dashboard Developer
 
-Here are some ideas to get you started:
+I am a **beginner data analyst** with hands-on experience in data cleaning, exploratory data analysis, and data visualization. I enjoy transforming raw data into **clear insights** and I am learning how to present analysis results through **visual dashboards**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 About Me
+- Interested in Data Analysis and Dashboards
+- Enjoy working with real-world datasets
+- Open to collaborating with web developers as a data analyst
+
+---
+
+## 🛠 Technical Skills
+
+### 📈 Data Analysis
+- Python (Pandas, NumPy)
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn)
+- Statistical Analysis (Basic)
+
+### 🗄 Databases
+- SQL (MySQL)
+
+### 🧰 Tools
+- Jupyter Notebook
+- Excel
+- Git & GitHub
+
+### 🌐 Web Basics
+- HTML
+- CSS
+- JavaScript (Beginner)
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Data Analysis Projects
+- Cleaning and analyzing datasets using Python
+- Visualizing trends and patterns
+- Extracting insights using statistics
+
+### 📊 Dashboards (Learning Phase)
+- Learning to build dashboards using Streamlit
+- Exploring ways to present analysis results visually
+
+> Each project includes a clear README explaining the goal, steps, tools, and results.
+
+---
+
+## 🎯 Future Goals
+- Become confident in data analysis and visualization
+- Build professional dashboards integrated with web interfaces
+- Collaborate on real-world projects
+- Gradually move into AI and Machine Learning
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Sameh-H
+- LinkedIn: Add later
+
+---
+
+⭐ This profile represents my learning journey. Feedback and collaboration are always welcome.
